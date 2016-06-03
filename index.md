@@ -1,6 +1,6 @@
 ---
 layout: homepage
-modified: June 2, 2016
+modified: June 3, 2016
 description: News, reviews and analysis from a Maoist global perspective, Maoist anti-imperialist news
 title: Homepage - Proletarian Internationalist Notes - MIM-Orchid - Maoist Internationalist Movement - Maoism
 filename: index
@@ -8,11 +8,11 @@ filename: index
 <div class="hide"><p id="banner-md"><img src="_layouts/images/banner.png" alt="MIM-Orchid / Proletarian Internationalist Notes (PINotes)" /><br /><i>News, reviews and analysis from a Maoist global perspective</i></p><hr /><p>For more security, instead of clicking on non-github.com links to open them, right-click and copy a link and paste it into the address bar of a new tab. Do this for external links throughout this site.</p><p><a href="pages/security.md">Security</a> &larr; Read this before proceeding.<br />
 <a href="pages/about.md">About</a> | <a href="pages/faq/index.md">FAQ</a> | <a href="pages/glossary/index.md">Glossary</a></p>
 <p class="menu-block"><span class="menu-block-heading"><b>News & Analysis</b></span><br />
-[ <a href="pages/latest.md">Latest</a> ] <span class="date-new">2016-06-02</span> <a href="https://pinotes.github.io/pages/latest-rss.xml">RSS</a> (DNS-related risk with this RSS feed.)<br />
+[ <a href="pages/latest.md">Latest</a> ] <span class="date-new">2016-06-03</span> <a href="https://pinotes.github.io/pages/latest-rss.xml">RSS</a> (DNS-related risk with this RSS feed.)<br />
 [ <a href="pages/newsletter/index.md">Newsletter</a> ] <span class="date-new"></span></p>
 <p class="menu-block"><span class="menu-block-heading">[ <b><a href="pages/agitation/index.md">Agitation</a></b> ]</span> <span class="date-new"></span></p>
 <p class="menu-block"><span class="menu-block-heading"><b>Culture/Reviews</b></span><br />
-[ <a href="reviews/movies/index.md">Movies</a> ] <span class="date-new">2016-05-27</span><br />
+[ <a href="reviews/movies/index.md">Movies</a> ] <span class="date-new">2016-06-03</span><br />
 [ <a href="reviews/memes/index.md">Memes</a> ] <span class="date-new"></span><br />
 [ <a href="reviews/books/index.md">Books</a> ] <span class="date-new"></span><br />
 [ <a href="reviews/events/index.md">Events</a> ] <span class="date-new"></span><br />
@@ -238,11 +238,11 @@ _____________________________________<br /><img src="_layouts/images/banner_foot
 <p><a href="pages/security.html">Security</a> &larr; Read this before proceeding.<br />
 <a href="pages/about.html">About</a> | <a href="pages/faq/index.html">FAQ</a> | <a href="pages/glossary/index.html">Glossary</a></p>
 <p class="menu-block"><span class="menu-block-heading"><b>News & Analysis</b></span><br />
-[ <a href="pages/latest.html">Latest</a> ] <span class="date-new">2016-06-02</span> <a href="pages/latest-rss.xml">RSS</a><br />
+[ <a href="pages/latest.html">Latest</a> ] <span class="date-new">2016-06-03</span> <a href="pages/latest-rss.xml">RSS</a><br />
 [ <a href="pages/newsletter/index.html">Newsletter</a> ] <span class="date-new"></span></p>
 <p class="menu-block"><span class="menu-block-heading">[ <b><a href="pages/agitation/index.html">Agitation</a></b> ]</span> <span class="date-new"></span></p>
 <p class="menu-block"><span class="menu-block-heading"><b>Culture/Reviews</b></span><br />
-[ <a href="reviews/movies/index.html">Movies</a> ] <span class="date-new">2016-05-27</span><br />
+[ <a href="reviews/movies/index.html">Movies</a> ] <span class="date-new">2016-06-03</span><br />
 [ <a href="reviews/memes/index.html">Memes</a> ] <span class="date-new"></span><br />
 [ <a href="reviews/books/index.html">Books</a> ] <span class="date-new"></span><br />
 [ <a href="reviews/events/index.html">Events</a> ] <span class="date-new"></span><br />

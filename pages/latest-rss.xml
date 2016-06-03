@@ -7,6 +7,15 @@
 <language>en-us</language>
 <category>Maoist</category><category>anti-imperialist</category><category>news</category>
 <item>
+   <title>Review> "X-Men: Apocalypse" (2016)</title>
+   <dc:creator>anonymous/unidentified</dc:creator>
+   <description>A review of "X-Men - Apocalypse," from PINotes -- news, reviews and analysis from a Maoist global perspective</description>
+   <category>movie</category><category>review</category>
+   <link>https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2016-06-03-movie-X-Men-Apocalypse.md</link>
+   <guid>https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2016-06-03-movie-X-Men-Apocalypse.md</guid>
+   <pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate>
+</item>
+<item>
    <title>News> U.S. Democrats, Greens keep things simmering with Saudi Arabia</title>
    <dc:creator>anonymous/unidentified</dc:creator>
    <description>U.S. Democratic and Green remarks on Saudi Arabia. News and analysis from PINotes -- news, reviews and analysis from a Maoist global perspective</description>
@@ -176,15 +185,6 @@
    <link>https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2016-04-15-movie-Eye-in-the-Sky.md</link>
    <guid>https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2016-04-15-movie-Eye-in-the-Sky.md</guid>
    <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
-</item>
-<item>
-   <title>News> Panama Papers shock: non-Amerikan elites need bank accounts, too</title>
-   <dc:creator>anonymous/unidentified</dc:creator>
-   <description>Things to consider besides the CIA, what the Panama Papers have to do with international inequality and wealth transfers. News and analysis from PINotes -- news, reviews and analysis from a Maoist global perspective</description>
-   <category>news</category>
-   <link>https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2016-04-13-news-Panama-Papers-shock.md</link>
-   <guid>https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2016-04-13-news-Panama-Papers-shock.md</guid>
-   <pubDate>Wed, 13 Apr 2016 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>

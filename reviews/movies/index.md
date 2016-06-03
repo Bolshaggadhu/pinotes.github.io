@@ -1,6 +1,6 @@
 ---
 layout: reviews
-modified: May 27, 2016
+modified: June 3, 2016
 description: Movie reviews from PINotes -- news, reviews and analysis from a Maoist global perspective
 title: Movies - Culture/Reviews - Proletarian Internationalist Notes (PINotes)
 type: Culture/Reviews
@@ -11,6 +11,7 @@ filename: index
 <div class="hide"><p id="banner-md"><a href="../../index.md"><img src="../../_layouts/images/banner_small_600.png" alt="Proletarian Internationalist Notes (PINotes)" /></a><br /><a href="../../index.md">HOME</a> | <a href="../../pages/latest.md">LATEST</a> | <a href="../../pages/agitation/index.md">CAMPAIGNS</a> | <a href="../../pages/glossary/index.md">GLOSSARY</a></p><hr /><h2>Culture/Reviews &gt; Movies</h2></div><p><i>Movie reviews from Proletarian Internationalist Notes&mdash;news, reviews and analysis from a Maoist global perspective</i></p><div class="hide">
 
 <ul id="list1">
+<li><a href="../../_posts/2016-06-03-movie-X-Men-Apocalypse.md">X-Men: Apocalypse (2016)</a></li>
 <li><a href="../../_posts/2016-05-27-movie-Total-Recall.md">Total Recall (1990)</a></li>
 <li><a href="../../_posts/2016-05-24-movie-Donnie-Darko.md">Donnie Darko (2001)</a></li>
 <li><a href="../../_posts/2016-05-19-movie-The-Jungle-Book.md">The Jungle Book (2016)</a></li>
@@ -227,6 +228,7 @@ filename: index
 </pre><p>The links below are for the HTML edition of this site and do not work here with the exception of external links.</p></div>
 
 <ul id="list2">
+<li><a href="../../article/movie-X-Men-Apocalypse">X-Men: Apocalypse (2016)</a></li>
 <li><a href="../../article/movie-Total-Recall">Total Recall (1990)</a></li>
 <li><a href="../../article/movie-Donnie-Darko">Donnie Darko (2001)</a></li>
 <li><a href="../../article/movie-The-Jungle-Book">The Jungle Book (2016)</a></li>
