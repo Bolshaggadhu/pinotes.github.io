@@ -1,5 +1,5 @@
 ---
-modified: June 3, 2016
+modified: June 4, 2016
 description: The latest articles from PINotes -- news, reviews and analysis from a Maoist global perspective, Maoist anti-imperialist news
 title: Latest - Proletarian Internationalist Notes (PINotes)
 heading: PINotes
@@ -11,6 +11,7 @@ layout: page_top
 <div class="hide"><p id="banner-md"><a href="../index.md"><img src="../_layouts/images/banner_small_600.png" alt="Proletarian Internationalist Notes (PINotes)" /></a><br /><a href="../index.md">HOME</a> | <a href="../pages/latest.md">LATEST</a> | <a href="../pages/agitation/index.md">CAMPAIGNS</a> | <a href="../pages/glossary/index.md">GLOSSARY</a></p><hr /><h2>PINotes / Latest</h2></div><p><i>The latest articles from Proletarian Internationalist Notes&mdash;news, reviews and analysis from a Maoist global perspective</i></p><div class="hide">
 
 <ul>
+<li><b>2016-06-04:</b> <a href="../_posts/2016-06-04-movie-A-Hologram-for-the-King.md">Review> "A Hologram for the King" (2016)</a> added to <a href="../reviews/movies/index.md">Movies</a></li>
 <li><b>2016-06-03:</b> <a href="../_posts/2016-06-03-movie-X-Men-Apocalypse.md">Review> "X-Men: Apocalypse" (2016)</a> added to <a href="../reviews/movies/index.md">Movies</a></li>
 <li><b>2016-06-02:</b> <a href="../_posts/2016-06-02-news-Democrats-Greens-Saudis.md">News> U.S. Democrats, Greens keep things simmering with Saudi Arabia</a> added to <a href="../news/all/index.md">News-All</a></li>
 <li><b>2016-05-30:</b> <a href="../_posts/2016-05-30-news-Obama-Hiroshima-visit.md">News> Apology not accepted: U.$. out of Asia</a> added to <a href="../news/all/index.md">News-All</a></li>
@@ -240,6 +241,7 @@ layout: page_top
 </pre><p>The links below are for the HTML edition of this site and do not work here with the exception of external links.</p></div>
 
 <ul>
+<li><b>2016-06-04:</b> <a href="../article/movie-A-Hologram-for-the-King">Review> "A Hologram for the King" (2016)</a> added to <a href="../reviews/movies/index.html">Movies</a></li>
 <li><b>2016-06-03:</b> <a href="../article/movie-X-Men-Apocalypse">Review> "X-Men: Apocalypse" (2016)</a> added to <a href="../reviews/movies/index.html">Movies</a></li>
 <li><b>2016-06-02:</b> <a href="../article/news-Democrats-Greens-Saudis">News> U.S. Democrats, Greens keep things simmering with Saudi Arabia</a> added to <a href="../news/all/index.html">News-All</a></li>
 <li><b>2016-05-30:</b> <a href="../article/news-Obama-Hiroshima-visit">News> Apology not accepted: U.$. out of Asia</a> added to <a href="../news/all/index.html">News-All</a></li>

@@ -7,6 +7,15 @@
 <language>en-us</language>
 <category>Maoist</category><category>anti-imperialist</category><category>news</category>
 <item>
+   <title>Review> "A Hologram for the King" (2016)</title>
+   <dc:creator>anonymous/unidentified</dc:creator>
+   <description>A review of "A Hologram for the King" from PINotes -- news, reviews and analysis from a Maoist global perspective</description>
+   <category>movie</category><category>review</category>
+   <link>https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2016-06-04-movie-A-Hologram-for-the-King.md</link>
+   <guid>https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2016-06-04-movie-A-Hologram-for-the-King.md</guid>
+   <pubDate>Sat, 04 Jun 2016 00:00:00 +0000</pubDate>
+</item>
+<item>
    <title>Review> "X-Men: Apocalypse" (2016)</title>
    <dc:creator>anonymous/unidentified</dc:creator>
    <description>A review of "X-Men - Apocalypse," from PINotes -- news, reviews and analysis from a Maoist global perspective</description>
@@ -176,15 +185,6 @@
    <link>https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2016-04-21-movie-Mad-Max-Fury-Road.md</link>
    <guid>https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2016-04-21-movie-Mad-Max-Fury-Road.md</guid>
    <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
-</item>
-<item>
-   <title>Review> "Eye in the Sky" (2015)</title>
-   <dc:creator>anonymous/unidentified</dc:creator>
-   <description>A review of "Eye in the Sky," from PINotes -- news, reviews and analysis from a Maoist global perspective</description>
-   <category>movie</category><category>review</category>
-   <link>https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2016-04-15-movie-Eye-in-the-Sky.md</link>
-   <guid>https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2016-04-15-movie-Eye-in-the-Sky.md</guid>
-   <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
