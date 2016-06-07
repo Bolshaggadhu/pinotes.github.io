@@ -52,7 +52,7 @@ Islam is disproportionately a religion of exploited and oppressed people, and Th
 <a href="#user-content-noteref1" name="user-content-note1">1.</a> "Clay refuses Army oath; stripped of boxing crown," 1967 April 29. https://www.nytimes.com/books/98/10/25/specials/ali-army.html</a><br />
 <a href="#user-content-noteref2" name="user-content-note2">2.</a> "Muhammad Ali on the Vietnam War-Draft," 2011 February 20. https://www.youtube.com/watch?v=HeFMyrWlZ68<br />
 <a href="#user-content-noteref3" name="user-content-note3">3.</a> "The king of the world," 2016 June 4. http://www.slate.com/articles/sports/sports_nut/2016/06/when_cassius_clay_became_muhammad_ali_an_excerpt_from_the_book_blood_brothers.html<br />
-<a href="#user-content-noteref4" name="user-content-note4">4.</a> "Maoism restored: The Black Panther newspaper, 1968-69," 1995 May. http://www.prisoncensorship.info/archive/etext/mt/mt10bpp.html<br />
+<a href="#user-content-noteref4" name="user-content-note4">4.</a> "Maoism restored: the Black Panther newspaper, 1968-69," 1995 May. http://www.prisoncensorship.info/archive/etext/mt/mt10bpp.html<br />
 "On the internal class structures of the internal semi-colonies," 1998 February. http://www.prisoncensorship.info/archive/etext/contemp/internalclass3.htm<br />
 <i>Black Panther Newspaper Collection</i>. http://www.prisoncensorship.info/archive/etext/bpp/<br />
 <a href="#user-content-noteref5" name="user-content-note5">5.</a> "Huey Newton on Blacks having no homeland to return to (1971)." http://www.prisoncensorship.info/archive/etext/bpp/books/worldcitizens.html
