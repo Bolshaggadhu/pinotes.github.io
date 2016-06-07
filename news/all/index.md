@@ -1,6 +1,6 @@
 ---
 type: News & Analysis
-modified: June 2, 2016
+modified: June 7, 2016
 description: News and analysis (all) from PINotes -- news, reviews and analysis from a Maoist global perspective
 title: All - News & Analysis - Proletarian Internationalist Notes (PINotes)
 layout: index
@@ -12,6 +12,7 @@ filename: index
 <div class="hide"><p id="banner-md"><a href="../../index.md"><img src="../../_layouts/images/banner_small_600.png" alt="Proletarian Internationalist Notes (PINotes)" /></a><br /><a href="../../index.md">HOME</a> | <a href="../../pages/latest.md">LATEST</a> | <a href="../../pages/agitation/index.md">CAMPAIGNS</a> | <a href="../../pages/glossary/index.md">GLOSSARY</a></p><hr /><h2>News & Analysis &gt; All</h2></div><p><i>News and analysis (all) from Proletarian Internationalist Notes&mdash;news, reviews and analysis from a Maoist global perspective</i></p><div class="hide">
 
 <ul id="list1">
+<li><b>2016-06-07:</b> <a href="../../_posts/2016-06-07-news-Muhammad-Ali-passes.md">News> Muslim world citizen Muhammad Ali passes away</a></li>
 <li><b>2016-06-02:</b> <a href="../../_posts/2016-06-02-news-Democrats-Greens-Saudis.md">News> U.S. Democrats, Greens keep things simmering with Saudi Arabia</a></li>
 <li><b>2016-05-30:</b> <a href="../../_posts/2016-05-30-news-Obama-Hiroshima-visit.md">News> Apology not accepted: U.$. out of Asia</a></li>
 <li><b>2016-05-21:</b> <a href="../../_posts/2016-05-21-news-Revised-JASTA-State-tool.md">News> Changes make JASTA a tool the U.S. State Department can use against Arab, Muslim and oil-exporting countries</a></li>
@@ -232,6 +233,7 @@ filename: index
 </pre><p>The links below are for the HTML edition of this site and do not work here with the exception of external links. They should match the links above except for the "html" extension.</p></div>
 
 <ul id="list2">
+<li><b>2016-06-07:</b> <a href="../../article/news-Muhammad-Ali-passes">News> Muslim world citizen Muhammad Ali passes away</a></li>
 <li><b>2016-06-02:</b> <a href="../../article/news-Democrats-Greens-Saudis">News> U.S. Democrats, Greens keep things simmering with Saudi Arabia</a></li>
 <li><b>2016-05-30:</b> <a href="../../article/news-Obama-Hiroshima-visit">News> Apology not accepted: U.$. out of Asia</a></li>
 <li><b>2016-05-21:</b> <a href="../../article/news-Revised-JASTA-State-tool">News> Changes make JASTA a tool the U.S. State Department can use against Arab, Muslim and oil-exporting countries</a></li>

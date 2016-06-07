@@ -7,9 +7,18 @@
 <language>en-us</language>
 <category>Maoist</category><category>anti-imperialist</category><category>news</category>
 <item>
+   <title>News> Muslim world citizen Muhammad Ali passes away</title>
+   <dc:creator>anonymous/unidentified</dc:creator>
+   <description>Muhammad Ali's death, Islam, world citizenship. News and analysis from PINotes -- news, reviews and analysis from a Maoist global perspective</description>
+   <category>news</category>
+   <link>https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2016-06-07-news-Muhammad-Ali-passes.md</link>
+   <guid>https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2016-06-07-news-Muhammad-Ali-passes.md</guid>
+   <pubDate>Tue, 07 Jun 2016 00:00:00 +0000</pubDate>
+</item>
+<item>
    <title>Review> "A Hologram for the King" (2016)</title>
    <dc:creator>anonymous/unidentified</dc:creator>
-   <description>A review of "A Hologram for the King" from PINotes -- news, reviews and analysis from a Maoist global perspective</description>
+   <description>A review of "A Hologram for the King," from PINotes -- news, reviews and analysis from a Maoist global perspective</description>
    <category>movie</category><category>review</category>
    <link>https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2016-06-04-movie-A-Hologram-for-the-King.md</link>
    <guid>https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2016-06-04-movie-A-Hologram-for-the-King.md</guid>
@@ -176,15 +185,6 @@
    <link>https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2016-04-22-news-Gary-Johnson-and-Jill-Stein.md</link>
    <guid>https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2016-04-22-news-Gary-Johnson-and-Jill-Stein.md</guid>
    <pubDate>Fri, 22 Apr 2016 00:00:00 +0000</pubDate>
-</item>
-<item>
-   <title>Review> "Mad Max: Fury Road" (2015)</title>
-   <dc:creator>anonymous/unidentified</dc:creator>
-   <description>A review of "Mad Max - Fury Road," from PINotes -- news, reviews and analysis from a Maoist global perspective</description>
-   <category>movie</category><category>review</category>
-   <link>https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2016-04-21-movie-Mad-Max-Fury-Road.md</link>
-   <guid>https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2016-04-21-movie-Mad-Max-Fury-Road.md</guid>
-   <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
